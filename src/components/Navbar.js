@@ -48,7 +48,7 @@ function Navbar() {
           </li>
           
           <li className='nav-item'>
-            <a href='/Autolistings/#'
+            <a href='/Autolistings'
               className='nav-links'
             >
               AUTOLISTINGS
@@ -72,7 +72,7 @@ function Navbar() {
           </li>
 
           <li className='nav-item'>
-            <a href='/News/#'
+            <a href='/News'
               className='nav-links'
             >
               NEWS
@@ -80,7 +80,7 @@ function Navbar() {
           </li>
 
           <li className='nav-item'>
-            <a href='/Contact/#'
+            <a href='/Contact'
               className='nav-links'
             >
              CONTACT&#160;US
