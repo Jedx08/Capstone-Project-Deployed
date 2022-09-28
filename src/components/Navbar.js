@@ -48,7 +48,7 @@ function Navbar() {
           </li>
           
           <li className='nav-item'>
-            <a href='/Autolistings'
+            <a href='/Autolistings/#'
               className='nav-links'
             >
               AUTOLISTINGS
