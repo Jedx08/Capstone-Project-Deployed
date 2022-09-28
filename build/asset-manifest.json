@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e728bcc6.css",
+    "main.js": "/static/js/main.a761d1fe.js",
+    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/rentalworks.mp4": "/static/media/rentalworks.48de4eb2d19d84900a94.mp4",
+    "static/media/img-6.jpg": "/static/media/img-6.047226b0f6080d5b242c.jpg",
+    "static/media/img-5.jpg": "/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
+    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-7.jpg": "/static/media/img-7.dfeef5257053ba651d89.jpg",
+    "static/media/jusLogoImg.png": "/static/media/jusLogoImg.baa2f11f110fb36bb17e.png",
+    "static/media/melBanner.jpg": "/static/media/melBanner.8b475316d83a7f8147d6.jpg",
+    "static/media/justineLogoImg1.png": "/static/media/justineLogoImg1.4913915b55f6732c50d5.png",
+    "static/media/belt.png": "/static/media/belt.37c796a5460f7e4f0608.png",
+    "static/media/highway.png": "/static/media/highway.d37ee0d66dbd6ca71916.png",
+    "static/media/gearbox.png": "/static/media/gearbox.7212efc1647144baa56e.png",
+    "index.html": "/index.html",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.e728bcc6.css.map": "/static/css/main.e728bcc6.css.map",
+    "main.a761d1fe.js.map": "/static/js/main.a761d1fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e728bcc6.css",
+    "static/js/main.a761d1fe.js"
+  ]
+}
